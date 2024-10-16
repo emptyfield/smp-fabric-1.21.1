@@ -12,6 +12,7 @@ services:
       ONLINE_MODE: false
       ENABLE_WHITELIST: true
       ENFORCE_SECURE_PROFILE: false
+      FUNCTION_PERMISSION_LEVEL: 3
       DIFFICULTY: hard
       MOD_PLATFORM: MODRINTH
       MODRINTH_MODPACK: /modpack.mrpack
