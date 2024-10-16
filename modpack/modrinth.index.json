@@ -111,6 +111,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/aZj58GfX/versions/8ZQEgc1i/easyauth-mc1.21-3.0.25.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 8114674,
+      "hashes": {
+        "sha1": "be072b59eec4f2ec274d38da8f1ad54918cfb7d4",
+        "sha512": "efc95c272e0a1dfcaa77ffb9403e84c88f262de24ac2db2e908a5819679dc99435dfb4771e504a6cb59e385facb5e8d23c3384b91e12b1cba0a1114d6e72b090"
+      },
+      "path": "mods/easyauth-mc1.21-3.0.25.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/P7dR8mSH/versions/iFnYBUfS/fabric-api-0.106.0%2B1.21.1.jar"
       ],
       "env": {
