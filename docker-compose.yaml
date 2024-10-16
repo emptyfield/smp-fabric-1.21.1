@@ -1,0 +1,20 @@
+services:
+  mc:
+    image: itzg/minecraft-server:java21-alpine
+    ports:
+      - 25565:25565
+    tty: true
+    stdin_open: true
+    environment:
+      EULA: true
+      MAX_MEMORY: 6G
+      USE_AIKAR_FLAGS: true
+      ONLINE_MODE: false
+      ENABLE_WHITELIST: true
+      DIFFICULTY: hard
+      MOD_PLATFORM: MODRINTH
+      MODRINTH_MODPACK: /modpack.mrpack
+    restart: unless-stopped
+    volumes:
+      - ./data:/data
+      - ./modpack.mrpack:/modpack.mrpack
