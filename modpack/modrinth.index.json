@@ -171,6 +171,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1709158,
+      "hashes": {
+        "sha1": "e289663f13de87ed871fccb8837c5d69cc3bb2e6",
+        "sha512": "a247df6557c4020ea5499a1be54d1b2a90b33fffcb94866bf682b40a6524708360ec4e1e912aa10754722761ccabcf3674bea1f82f5438f225eada983e59989a"
+      },
+      "path": "mods/graves-3.4.4+1.21.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
       ],
       "env": {
@@ -228,6 +243,21 @@
         "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
       },
       "path": "mods/noisium-fabric-2.3.0+mc1.21-1.21.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/JNR0UeBQ/polymer-bundled-0.9.16%2B1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1690586,
+      "hashes": {
+        "sha1": "ae4cc71c9f878ef9d08db3956793c6a1666e5ffa",
+        "sha512": "ef2e05949adaef067235a291e125238cbb5d69b76234d4b3c6b03fc6563c0988bb076f002d61768984aba3cc1ae0bc2f3768254aae59c8b27dd2ea73a2651aea"
+      },
+      "path": "mods/polymer-bundled-0.9.16+1.21.1.jar"
     },
     {
       "downloads": [
@@ -295,4 +325,3 @@
   "name": "SMP-Fabric",
   "versionId": "1.0.0"
 }
-
