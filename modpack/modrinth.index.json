@@ -21,21 +21,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s86X568j/versions/uT1cdd3k/ChunkyBorder-1.2.18.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 160669,
-      "hashes": {
-        "sha1": "052b14bb201ee9c192afb7b29a281ab8c46f58f4",
-        "sha512": "121bfe0f03c4981214fd4c784e0276f53d810bac418a99f7500f11585ea584d2f6fbe7c65d1518179ffb8015e1c83b614df4626c52a261f4dd2d85ff386c06c5"
-      },
-      "path": "mods/ChunkyBorder-1.2.18.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
       ],
       "env": {
@@ -310,3 +295,4 @@
   "name": "SMP-Fabric",
   "versionId": "1.0.0"
 }
+
