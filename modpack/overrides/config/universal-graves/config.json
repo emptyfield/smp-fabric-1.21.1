@@ -1,0 +1,6 @@
+{
+  "_comment": "Before changing anything, see https://github.com/Patbox/UniversalGraves#configuration",
+  "protection": {
+    "self_destruction_time": 1800
+  }
+}
