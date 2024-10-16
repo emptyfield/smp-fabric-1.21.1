@@ -6,6 +6,21 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Jrmoreqs/versions/GlShY6YJ/AdvancedBackups-fabric-1.21-3.6.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 335674,
+      "hashes": {
+        "sha1": "9185944e31e60341a8421c4df0014937cdce7f4e",
+        "sha512": "cb9f2912ef15c9358ee10df702dbdfb632c7c23086ff4609cd2ce104d33671e61c091b3c7017080d2682e68a404a1623a917312ce5020e8651b9d7c052e29168"
+      },
+      "path": "mods/AdvancedBackups-fabric-1.21-3.6.3.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar"
       ],
       "env": {
