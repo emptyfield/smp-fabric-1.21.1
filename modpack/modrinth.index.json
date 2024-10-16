@@ -126,6 +126,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/LODybUe5/versions/4ndHE533/easywhitelist-mc1.20-rc1-1.0.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 80484,
+      "hashes": {
+        "sha1": "330e3c63426083317b436cfc76330fb5f618376f",
+        "sha512": "866ec5db1397b64c327970ff888d94a4ce1ddaae4d3f3f8e221dc0cd2c6c607d3d8b9f8ca2a6fab70aaa5be7ae9a2147d716b6a6b6dc0d77ef43cc3ab9da985e"
+      },
+      "path": "mods/easywhitelist-mc1.20-rc1-1.0.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/P7dR8mSH/versions/iFnYBUfS/fabric-api-0.106.0%2B1.21.1.jar"
       ],
       "env": {
