@@ -306,6 +306,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/ghrZDhGW/versions/GSZWlZM2/skinrestorer-2.1.0%2B1.21-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 97525,
+      "hashes": {
+        "sha1": "ec13939e4d360bb759a860a9db88d0f253f570d3",
+        "sha512": "91fbab3d0646efc4e23ab8d3d7e83608a6591964ec447a59f1b479de34c6229a59c04c7dce898c332cabd2836bc133b196eeef735b0d64922dc06a890d81c713"
+      },
+      "path": "mods/skinrestorer-2.1.0+1.21-fabric.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/WTzuSu8P/versions/xDY0Tnt3/sleep-v.2.8.5.jar"
       ],
       "env": {
