@@ -8,6 +8,7 @@ services:
     environment:
       EULA: true
       MAX_MEMORY: 6G
+      VIEW_DISTANCE: 12
       USE_AIKAR_FLAGS: true
       ONLINE_MODE: false
       MOTD: "\u00a74\u00a7l\u00a7kyy\u00a74\u00a7l\u0412\u043e\u043d\u043e \u043d\u0430\u0440\u043e\u0434\u0438\u043b\u043e\u0441\u044f\u00a74\u00a7l\u00a7kyy"
