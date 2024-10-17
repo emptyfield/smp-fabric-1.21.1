@@ -201,6 +201,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7137406,
+      "hashes": {
+        "sha1": "54cd3900a904b81bd24c4a35b6577a2ac197b51a",
+        "sha512": "a9278c0a32a4906989fff17431ad5cc13fbed95a99a15bb8e10ba427714e28eb4828f779affb4e80731d98ab14f23e4d759ea2090be05a10da908608139e67e7"
+      },
+      "path": "mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar"
       ],
       "env": {
@@ -243,6 +258,21 @@
         "sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784"
       },
       "path": "mods/krypton-0.2.8.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 20454000,
+      "hashes": {
+        "sha1": "68eb5d3e992b6634efe62a0980295f9ecea210c1",
+        "sha512": "9701759b8507478ec19a8d441d884e2c5c41f7932207805e18ec1f14f17e3ff64394e31ee28d47b776730dde0c3a97ceca5f27af49d8b38d4a1577fb39351b44"
+      },
+      "path": "mods/ledger-1.3.4.jar"
     },
     {
       "downloads": [
