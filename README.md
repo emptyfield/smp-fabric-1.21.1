@@ -1,4 +1,9 @@
-# After creating
+# SMP Fabric 1.21.1
+
+To send commands to the server via RCON:
+`docker exec -i smp-fabric-1211-mc-1 rcon-cli`
+
+## After creating
 
 ```bash
 /easywhitelist add emptyfield
