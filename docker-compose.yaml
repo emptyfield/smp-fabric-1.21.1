@@ -7,7 +7,7 @@ services:
     stdin_open: true
     environment:
       EULA: true
-      MAX_MEMORY: 6G
+      MAX_MEMORY: 6656M
       VIEW_DISTANCE: 12
       USE_AIKAR_FLAGS: true
       ONLINE_MODE: false
