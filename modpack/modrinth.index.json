@@ -351,21 +351,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/WTzuSu8P/versions/xDY0Tnt3/sleep-v.2.8.5.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 137482,
-      "hashes": {
-        "sha1": "481b57d0520d51ee84a5e86fc4b96a5e50748b4e",
-        "sha512": "3d8810d02bb88b51c520383a254938232146439748ee739bbd1fec139f08d226632be843dec76a7fa5d010a9d66f6c9eafb0597dd041af957024d76e902f1505"
-      },
-      "path": "mods/sleep-v.2.8.5.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/vSEH1ERy/versions/F4sjmsi3/threadtweak-fabric-0.1.5%2Bmc1.21.1.jar"
       ],
       "env": {
