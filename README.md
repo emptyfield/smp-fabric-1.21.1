@@ -8,7 +8,7 @@ To send commands to the server via RCON:
 ```bash
 /easywhitelist add emptyfield
 /op emptyfield
-/scoreboard players set &percentage_mode sleep.config 1
+/gamerule playersSleepingPercentage 50
 /reload
 ```
 
