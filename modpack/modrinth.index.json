@@ -66,6 +66,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 134591,
+      "hashes": {
+        "sha1": "6e8cf20d0b334a06f30add25cf7f0dbd2cad97fa",
+        "sha512": "586b45d542827f65b08d9ecae2c2367133b7a204da064b6d578dcf0119629e0b595343035e84dc4a86254c1e21cd64c5ed393fd746b28d5472f1e119b3d08923"
+      },
+      "path": "mods/ScalableLux-0.1.0+fabric.26c6e72-all.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar"
       ],
       "env": {
