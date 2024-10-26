@@ -81,21 +81,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/sml2FMaA/versions/9Fb0twuI/antixray-fabric-1.4.6%2B1.21.1.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 129080,
-      "hashes": {
-        "sha1": "3207a21650c715fc46b44d22f551874663c5e434",
-        "sha512": "1b8548052cc7df877054b6d624fa0b6279559912b4e019d386524417f16413bfbceb66e070ee5923593807932120e79e583cc06e4793b4083917cb55e34ac7f8"
-      },
-      "path": "mods/antixray-fabric-1.4.6+1.21.1.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/fG1xJao0/appleskin-fabric-mc1.21-3.0.5.jar"
       ],
       "env": {
