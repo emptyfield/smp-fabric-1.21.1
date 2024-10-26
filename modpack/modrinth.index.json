@@ -81,21 +81,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/26qk5hxQ/versions/1NL048ad/afk-announcer-v.2.4.2.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 186610,
-      "hashes": {
-        "sha1": "41af3936b671831cde559e26551c63ab8efa6948",
-        "sha512": "f9a59c1fb089c930dd3b801927e7e485ce477daeda8e7b144ce822cc60e82fda01586e73be4923146682b557ceba8e5fd365274139a3b917a55e5b3c9282423c"
-      },
-      "path": "mods/afk-announcer-v.2.4.2.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/sml2FMaA/versions/9Fb0twuI/antixray-fabric-1.4.6%2B1.21.1.jar"
       ],
       "env": {
